@@ -1,4 +1,10 @@
 {% set active_page = "Home" %} {% extends "base.html" %} {% block top %}
+
+
+<!-- Include the navbar -->
+
+
+
 <style>
     .back {
         background: url("{{config.background_image}}") no-repeat center;
@@ -18,23 +24,30 @@
         >
             <h2>{{config.tagline|safe}}</h2>
             <h2 class="p-5" style="-webkit-text-stroke: 1px black">
-                TBA <br />
-                TBA, 2025
+                Princeton, NJ, US <br />
+                13-16 October, 2025
             </h2>
         </div>
     </div>
 </div>
 
-{% endblock %} {% block content %} {{ components.section("AI4ScienceConf") }}
+{% endblock %} {% block content %} {{ components.section("International Conference on AI for Science") }}
+<!-- <div class="h4" style="line-height: 1.5; padding-bottom: 0px">
+    Mission & Goal
+</div> -->
+<div class="h5" style="line-height: 1.5; padding-top: 0;  padding-bottom: 50px">
+    {{ about|markdown }}
+</div>
 
-<div class="h5" style="line-height: 1.5; padding-bottom: 50px">
-    <p>About AI4ScienceConf.</p>
+{{ components.section("Key Dates") }}
+<div class="h5" style="line-height: 1.5;">
+    {{ dates | markdown }}
 </div>
 
 {{ components.section("Venue") }}
 
 <div class="h5" style="line-height: 1.5; padding-bottom: 50px">
-    AI4ScienceConf 2025 will take place at TBA.
+    AI4ScienceConf 2025 will take place at Princeton, NJ, US.
 </div>
 
 <!-- <div class="row justify-content-md-center">

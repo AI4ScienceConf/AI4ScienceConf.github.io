@@ -1,6 +1,6 @@
 name: AI4ScienceConf
-tagline: AI for Science Conference
-date: TBA, 2025
+tagline: International Conference on AI for Science
+date: 13-16 Oct, 2025
 citation_date: TBA
 proceedings_title: TBA
 analytics: UA-
@@ -13,7 +13,7 @@ logo:
 page_title:
   prefix: "AI4ScienceConf 2025"
   separator: ": "
-# background_image: static/images/montreal.jpg
+background_image: static/images/princeton_copyright.png
 organization: AI4ScienceConf Organization Committee
 
 # Configuration for auth
