@@ -1,22 +1,21 @@
-- David MacMillan: Princeton, [Nobel ***Laureate***](https://www.google.com/search?sca_esv=3196b51d5507521a&rlz=1C5CHFA_enUS767US779&sxsrf=AHTn8zphyqRDVGIcZ4Som4Juxixg8E2rww:1738686957032&q=Nobel+Laureate&spell=1&sa=X&ved=2ahUKEwjC98vTuaqLAxUJMVkFHbn3DnIQkeECKAB6BAgNEAE) in Chemistry
-- Sham Kakade: Harvard, Director of Kempler Institute
-- Clifford Brangwynne: Princeton, Founding Director of Bioengineering Inst
-- Carla P. Gomes, Cornell University. Computational sustainability and AI for science.
-- George Church: Harvard
-- Olga Troyanskaya: Princeton, PPH
-- Jennifer Listgarten: Berkeley
-- Russ Altman: Stanford University, associate director of HAI. AI for medicine.
-- Jia Deng: Princeton CS, co-creator of Imagenet. 2d-3d reconstruction.
-- Munther Dahleh, MIT IDSS founding director.
-- Danilo Rezende: Director @ DeepMind | AI4Sciences
-- Ryan Adams: Princeton University, Co-director of Princeton AI^2. AI for materials
-- Le Cong: Stanford University, Genetics and Pathology
-- Jian Ma: CMU, Computational Bio; AI for Bio.
-- Egemen Kolmen: Princeton University and PPPL. AI for plasma physics
-- Yan Liu: Professor of Computer Science at the University of Southern California. Her research focuses on machine learning methodologies and their applications in health informatics and sustainability.
-- Bernd Ensing: Associate Professor of Computational Chemistry at the University of Amsterdam. Leads the AI4Science Lab, focusing on applying AI to chemistry and materials science.
-- Sanfeng Wu. Princeton, Quantum Physics
-- Shantenu Jha, PPPL and Princeton CS
-- Kai Li: Princeton CS, AI system
-- Xihong Lin: Harvard, Biostat
-- more to join
+- David MacMillan, Princeton University
+- Sham Kakade, Harvard University
+- Clifford Brangwynne, Princeton University
+- Carla Gomes, Cornell University
+- George Church, Harvard University
+- Olga Troyanskaya, Princeton University
+- Jennifer Listgarten, UC Berkeley
+- Russ Altman, Stanford University
+- Jia Deng, Princeton University
+- Munther Dahleh, Massachusetts Institute of Technology
+- Danilo Rezende, Google DeepMind
+- Ryan Adams, Princeton University
+- Le Cong, Stanford University
+- Jian Ma, Carnegie Mellon University
+- Egemen Kolmen, Princeton University
+- Yan Liu, University of Southern California
+- Bernd Ensing, University of Amsterdam
+- Sanfeng Wu, Princeton University
+- Shantenu Jha, Princeton University
+- Kai Li, Princeton University
+- Xihong Lin, Harvard University
