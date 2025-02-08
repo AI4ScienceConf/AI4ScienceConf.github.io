@@ -1,5 +1,5 @@
-name: AI4ScienceConf
-tagline: International Conference on AI for Science
+name: CAIS 2025
+tagline: 1st International Conference on AI for Science
 date: 13-16 Oct, 2025
 citation_date: TBA
 proceedings_title: TBA
@@ -11,10 +11,10 @@ logo:
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
 page_title:
-  prefix: "AI4ScienceConf 2025"
+  prefix: "CAIS 2025"
   separator: ": "
-background_image: static/images/princeton_copyright.png
-organization: AI4ScienceConf Organization Committee
+background_image: static/images/AdobeStock_548735430.jpeg
+organization: CAIS Organization Committee
 
 # Configuration for auth
 #Test user

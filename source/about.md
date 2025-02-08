@@ -1,6 +1,6 @@
 ##### **Mission & Goal**
 
-The AI for Science Conference aims to foster a collaborative community bridging AI researchers and scientists interested in AI applications for scientific discovery. Given the surging interest in both fields, this event seeks to provide a structured platform for engagement, addressing publication models, venues, and community-building efforts.
+International Conference on AI for Science (CAIS) aims to foster a collaborative community bridging AI researchers and scientists interested in AI applications for scientific discovery. Given the surging interest in both fields, this event seeks to provide a structured platform for engagement, addressing publication models, venues, and community-building efforts.
 
 ##### **Why Now?**
 

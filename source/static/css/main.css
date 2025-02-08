@@ -63,6 +63,16 @@ body {
   margin-bottom: 1em;
   display: block;
   overflow: hidden;
+  /* height: 300px; */
+}
+
+.pp-card-small {
+  font-family: "Exo";
+  box-shadow: 0 0 14px 0 rgba(204, 204, 204, 1);
+  margin-bottom: 1em;
+  display: block;
+  overflow: hidden;
+  height: 300px;
 }
 
 .pp-card-header {

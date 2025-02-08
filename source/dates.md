@@ -1,7 +1,7 @@
 
  **Main conference dates:** October 13-16, 2025
- 
- **Workshop dates:** TBD
+
+ <!-- **Workshop dates:** October 17, 2025 -->
 
 ##### **Main Track Submission Timeline**
 

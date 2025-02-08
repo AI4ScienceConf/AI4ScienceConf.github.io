@@ -1,4 +1,4 @@
-COLM utilizes the ICLR Code of Conduct, restated here.
+AI4ScienceConf utilizes the ICLR Code of Conduct, restated here.
 
 #### **Why** 
 
@@ -73,7 +73,7 @@ If action is taken, an appeals process will be made available.
 
 If you have concerns related to your inclusion at that conference, or
 observe someone else's difficulties, or have any other concerns related
-to inclusion, please email the COLM PCs . For online events and tools,
+to inclusion, please email the AI4ScienceConf PCs . For online events and tools,
 there are options to directly report specific chat/text comments, in
 addition to the above reporting. Complaints and violations will be
 handled with discretion. Reports made during the conference will be

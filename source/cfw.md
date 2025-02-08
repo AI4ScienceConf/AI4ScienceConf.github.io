@@ -1,5 +1,5 @@
 
-We invite proposals for workshops to be held in tandem with the 2nd Conference on Language Modeling (COLM).
+We invite proposals for workshops to be held in tandem with the 1st .
 
 ---
 

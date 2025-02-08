@@ -1,108 +1,70 @@
 committee:
-  - role: General Chair
-    name: Dipanjan Das
-    aff: Google DeepMind
-    im: static/images/Dipanjan.jpeg
-    tw: dipanjand
-    ws: https://www.dipanjandas.com/
-  - role: Senior Program Chair
-    name: Yoav Artzi
-    aff: Cornell Tech, ASAPP
-    im: static/images/Yoav.jpg
-    tw: yoavartzi
-    ws: https://yoavartzi.com/
-  - role: Program Chair
-    name: Aditi Raghunathan
-    aff: CMU
-    im: static/images/aditi.jpeg
+  - role: Steering Committee
+    name: Max Welling
+    aff: University of Amsterdam, Microsoft Research, CIFAR and ELLIS.
+    im: static/images/max_welling.jpg
+    # tw: dipanjand
+    ws: https://staff.fnwi.uva.nl/m.welling/
+
+  - role: Steering Committee
+    name: Eric Xing
+    aff: Mohamed bin Zayed University of Artificial Intelligence, Carnegie Mellon University. 
+    im: static/images/Eric_Xing.jpg
+    # tw: yoavartzi
+    ws: https://www.cs.cmu.edu/~epxing/
+
+  - role: Steering Committee
+    name: Tommi Jaakkola
+    aff: MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
+    im: static/images/tommi.png
     tw:
-    ws: https://www.cs.cmu.edu/~aditirag/
-  - role: Program Chair
-    name: Ranjay Krishna
-    aff: UW
-    im: static/images/Ranjay.jpeg
-    tw:
-    ws: https://ranjaykrishna.com/
-  - role: Program Chair
-    name: Eunsol Choi
-    aff: NYU
-    im: static/images/Eunsol.jpeg
-    tw: eunsolc
-    ws: https://eunsol.github.io/
-  - role: Workshop Chair
-    name: Colin Raffel
-    aff: University of Toronto
-    im: static/images/Colin.jpg
-    tw:
-    ws: https://colinraffel.com/
-  - role: Workshop Chair
-    name: Adina Williams
-    aff: META FAIR
-    im: static/images/Adina.jpg
-    tw:
-    ws: https://ai.meta.com/people/1396973444287406/adina-williams/
-  - role: Local Chair
-    name: Siva Reddy
-    aff: McGill-MILA / ServiceNow
-    im: static/images/siva.jpg
-    tw: sivareddyg
-    ws: https://sivareddy.in/
-  - role: Organizational Chair
-    name: Alexander Rush
-    aff: Cornell Tech, Hugging Face
-    im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
-    tw: srush_nlp
-    ws: https://rush-nlp.com/
+    ws: https://people.csail.mit.edu/tommi/
+    
+  - role: Steering Committee
+    name: Shirley Ho
+    aff: Flatiron Institute, Carnegie Mellon University.
+    im: static/images/shirley_ho.jpg
+    # tw:
+    ws: https://www.shirleyho.space/
+
+
+
+  - role: Steering Committee
+    name: Mengdi Wang
+    aff: Princeton University
+    im: static/images/Mengdi-Wang.jpg
+    # tw: eunsolc
+    ws: https://mwang.princeton.edu/
+
+
+
+  # - role: Local Chair
+  #   name: Siva Reddy
+  #   aff: McGill-MILA / ServiceNow
+  #   im: static/images/siva.jpg
+  #   tw: sivareddyg
+  #   ws: https://sivareddy.in/
+  # - role: Organizational Chair
+  #   name: Alexander Rush
+  #   aff: Cornell Tech, Hugging Face
+  #   im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
+  #   tw: srush_nlp
+  #   ws: https://rush-nlp.com/
 
 board:
-  - role: Board Member
-    name: Yejin Choi
-    aff: University of Washington, NVIDIA
-    im: static/images/Yejin.jpg
-    tw: YejinChoinka
-    ws: https://homes.cs.washington.edu/~yejin/
-  - role: Board Member
-    name: Denny Zhou
-    aff: Google DeepMind
-    im: static/images/Denny.jpg
-    tw: denny_zhou
-    ws: https://dennyzhou.github.io/
-  - role: Board Member
-    name: Danqi Chen
-    aff: Princeton
-    im: static/images/danqi.jpg
-    tw: danqi_chen
-    ws: https://www.cs.princeton.edu/~danqic/
-  - role: Board Member
-    name: Angela Fan
-    aff: Meta
-    im: static/images/angela.jpg
+  - role: Young Scientist Board
+    name: Yuanqi Du
+    aff: Cornell University
+    im: static/images/yuanqi.jpg
     tw:
-    ws: https://ai.meta.com/people/angela-fan/
-  - role: Board Member
-    name: Alice Oh
-    aff: KAIST
-    im: static/images/alice.jpg
-    tw: aliceoh
-    ws: https://aliceoh9.github.io/
-  - role: Board Member
-    name: Yoav Artzi
-    aff: Cornell Tech, ASAPP
-    im: static/images/Yoav.jpg
-    tw: yoavartzi
-    ws: https://yoavartzi.com/
-  - role: Board Member
-    name: Alexander Rush
-    aff: Cornell Tech, Hugging Face
-    im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
-    tw: srush_nlp
-    ws: https://rush-nlp.com/
-  - role: Board Member
-    name: Dipanjan Das
-    aff: Google DeepMind
-    im: static/images/Dipanjan.jpeg
-    tw: dipanjand
-    ws: https://www.dipanjandas.com/
+    ws: https://yuanqidu.github.io/
+
+  - role: Young Scientist Board
+    name: Jiajun He
+    aff: University of Cambridge
+    im: static/images/jiajun_he.jpg
+    tw:
+    ws: https://jiajunhe98.github.io/
 
   # - role: DEI Chair
   #   name: Alice Oh
