@@ -2,5 +2,19 @@
 
 <!-- Organizers -->
 
-{% block content %} {{ components.section("CAIS Organizing Committee") }} {{
-components.organizergroup(board) }} {% endblock %}
+{% block content %}  
+
+
+{{ components.section("Steering Committee") }}
+<!-- <div class="h3" style="line-height: 1.5; padding-bottom: 10px; text-align: center; padding-top: 0px;">
+        Steering Committee
+    </div> -->
+{{ components.organizergroup(committee)
+}} 
+<!-- <div class="h3" style="line-height: 1.5; padding-bottom: 10px; text-align: center; padding-top: 20px;">
+    Young Scientist Committee
+</div> -->
+{{ components.section("Young Scientist Committee") }}
+{{ components.organizergroup(board)
+}} 
+{% endblock %}

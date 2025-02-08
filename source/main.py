@@ -218,6 +218,7 @@ def cfw():
 def board():
     data = _data()
     data["board"] = site_data["committee"]["board"]
+    data["committee"] = site_data["committee"]["committee"]
     return render_template("board.html", **data)
 
 
