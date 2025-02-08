@@ -1,0 +1,620 @@
+ <nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <!-- <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src=""
+                    height="auto"
+            width="180px"
+            />
+        </a> -->
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+              
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="index.html"
+                      
+                      >Home</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="dates.html"
+                      
+                      >Dates</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown3" role="button" data-toggle="dropdown"
+                      
+                      >Calls</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
+                      
+                      <a class="dropdown-item" href="cfp.html">Call for Papers</a>
+                      
+                      <a class="dropdown-item" href="cfw.html">Call for Symposiums</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown4" role="button" data-toggle="dropdown"
+                      
+                      >Guides</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                      
+                      <a class="dropdown-item" href="CoC.html">Code of Conduct</a>
+                      
+                      <a class="dropdown-item" href="CoE.html">Code of Ethics</a>
+                      
+                      <a class="dropdown-item" href="ReviewGuide.html">Review Guidelines</a>
+                      
+                      <a class="dropdown-item" href="ac-guidelines.html">AC Guidelines</a>
+                      
+                      <a class="dropdown-item" href="AuthorGuide.html">Author Guide</a>
+                      
+                      <a class="dropdown-item" href="coi-policy.html">COI Policy</a>
+                      
+                    </div>
+                </li>
+                <li class="nav-item dropdown  ">
+                  <a class="nav-link dropdown-toggle" href="#"
+                    
+                    id="navbarDropdown4" role="button" data-toggle="dropdown"
+                    
+                    >Organization</a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                    
+                    <a class="dropdown-item" href="young_committee.html">Organizing Committee</a>
+                    <a class="dropdown-item" href="steering_committee.html">Steering Committee</a>
+                    <a class="dropdown-item" href="advisory_board.html">Advisory Board</a>
+                    
+                  </div>
+              </li>
+              
+                <!-- <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="board.html"
+                      
+                      >Organization</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
+                      
+                    </div>
+                </li> -->
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+    <link rel="icon" href="/favicon.svg"/>
+    <title>CAIS 2025</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+<!-- 
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src=""
+                    height="auto"
+            width="180px"
+            />
+        </a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+              
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="index.html"
+                      
+                      >Home</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="dates.html"
+                      
+                      >Dates</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown3" role="button" data-toggle="dropdown"
+                      
+                      >Calls</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
+                      
+                      <a class="dropdown-item" href="cfp.html">Call for Papers</a>
+                      
+                      <a class="dropdown-item" href="cfw.html">Call for Workshops</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown4" role="button" data-toggle="dropdown"
+                      
+                      >Guides</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                      
+                      <a class="dropdown-item" href="CoC.html">Code of Conduct</a>
+                      
+                      <a class="dropdown-item" href="CoE.html">Code of Ethics</a>
+                      
+                      <a class="dropdown-item" href="ReviewGuide.html">Review Guidelines</a>
+                      
+                      <a class="dropdown-item" href="ac-guidelines.html">AC Guidelines</a>
+                      
+                      <a class="dropdown-item" href="AuthorGuide.html">Author Guide</a>
+                      
+                      <a class="dropdown-item" href="coi-policy.html">COI Policy</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="board.html"
+                      
+                      >Board</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
+                      
+                    </div>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+ -->
+
+
+<!-- User Overrides -->
+
+
+
+<!-- Include the navbar -->
+
+
+
+<style>
+    .back {
+        background: url("static/images/AdobeStock_548735430.jpeg") no-repeat center;
+        background-size: 1000px;
+    }
+    .back h2 {
+        font-family: "Lato", sans-serif;
+        font-weight: 900;
+    }
+</style>
+
+<div class="container back" style="padding-bottom: 200px; padding-top: 200px">
+    <div class="row header">
+        <div
+            style="-webkit-text-stroke: 1px black"
+            class="p-1 text-center text-white col-md-12 col-sm-12"
+        >
+            <h2>1st Conference on AI for Science</h2>
+            <h2 class="p-5" style="-webkit-text-stroke: 1px black">
+                Princeton, NJ, US <br />
+                13-16 October, 2025
+            </h2>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+         
+    </div>
+    <!-- Content -->
+    <div class="content">
+         <div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Conference on AI for Science (CAIS)</h2>
+  </div>
+</div>
+<!-- <div class="h4" style="line-height: 1.5; padding-bottom: 0px">
+    Mission & Goal
+</div> -->
+<div class="h5" style="line-height: 1.5; padding-top: 0;  padding-bottom: 50px">
+    <p>The intersection of artificial intelligence and scientific discovery has led to transformative advancements across disciplines—from accelerating molecular design and materials discovery to enhancing climate modeling and understanding complex biological systems. As AI tools become increasingly sophisticated, their integration into scientific workflows is reshaping how we formulate hypotheses, analyze data, and simulate natural phenomena. However, the rapid growth of this interdisciplinary field has also highlighted the need for dedicated spaces to discuss methodologies, share breakthroughs, and establish best practices. </p>
+<p>The Conference on AI for Science (CAIS) aims to foster a collaborative community bridging AI researchers and scientists interested in AI applications for scientific discovery. Given the surging interest in both fields, this event seeks to provide a structured platform for engagement, addressing publication models, venues, and community-building efforts. CAIS aspires to become a nexus where cutting-edge AI techniques meet real-world scientific challenges, promoting interdisciplinary dialogue, knowledge exchange, and long-term partnerships that advance both AI methods and scientific inquiry.</p>
+</div>
+
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Key Dates</h2>
+  </div>
+</div>
+<div class="h5" style="line-height: 1.5;">
+    <p><strong>Main conference dates:</strong> October 13-16, 2025</p>
+<h5><strong>Main Track Submission Timeline</strong></h5>
+<ul>
+<li>Abstract deadline: April 21, 2025</li>
+<li>Full paper submission deadline: April 25, 2025</li>
+<li>Rebuttal period starts: July 1, 2025</li>
+<li>Rebuttal period ends: July 15, 2025</li>
+<li>Decision notifications: August 8, 2025</li>
+</ul>
+<h5><strong>Symposium Submission Timeline</strong></h5>
+<ul>
+<li>Symposium proposal deadline: May 9, 2025</li>
+<li>Proposal decision notifications: June 2, 2025</li>
+<li>Symposium contributed content deadline: August 15, 2025</li>
+</ul>
+</div>
+
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Venue</h2>
+  </div>
+</div>
+
+<div class="h5" style="line-height: 1.5; padding-bottom: 50px">
+    CAIS 2025 will take place at Princeton, NJ, US.
+</div>
+<img src="static/images/Venue.jpeg" alt="Princeton, NJ" style="width: 100%; max-width: 500px; display: block; margin: 0 auto; border-radius: 10px;">
+
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Steering Committee</h2>
+  </div>
+</div>
+<!-- <div class="h3" style="line-height: 1.5; padding-bottom: 10px; text-align: center; padding-top: 0px;">
+        Steering Committee
+    </div> -->
+
+<div class="row">
+  
+  <div class="col-md-4 col-xs-5">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://staff.fnwi.uva.nl/m.welling/"><h5 class="card-title" align="center">Max Welling</h5></a>
+        <div>
+          <!-- <h6 class="card-subtitle text-muted m-1" align="center">
+            Steering Committee
+          </h6> -->
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            University of Amsterdam, CuspAI
+          </h6>
+        </div>
+        <center>
+          <a href="https://staff.fnwi.uva.nl/m.welling/"></a>
+          <img src="static/images/max_welling.jpg" class="rounded" style="height: 160px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-5">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://www.cs.cmu.edu/~epxing/"><h5 class="card-title" align="center">Eric Xing</h5></a>
+        <div>
+          <!-- <h6 class="card-subtitle text-muted m-1" align="center">
+            Steering Committee
+          </h6> -->
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Mohamed bin Zayed University of Artificial Intelligence, Carnegie Mellon University
+          </h6>
+        </div>
+        <center>
+          <a href="https://www.cs.cmu.edu/~epxing/"></a>
+          <img src="static/images/Eric_Xing.jpg" class="rounded" style="height: 160px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-5">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://people.csail.mit.edu/tommi/"><h5 class="card-title" align="center">Tommi Jaakkola</h5></a>
+        <div>
+          <!-- <h6 class="card-subtitle text-muted m-1" align="center">
+            Steering Committee
+          </h6> -->
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
+          </h6>
+        </div>
+        <center>
+          <a href="https://people.csail.mit.edu/tommi/"></a>
+          <img src="static/images/tommi.png" class="rounded" style="height: 160px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-5">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://www.shirleyho.space/"><h5 class="card-title" align="center">Shirley Ho</h5></a>
+        <div>
+          <!-- <h6 class="card-subtitle text-muted m-1" align="center">
+            Steering Committee
+          </h6> -->
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Flatiron Institute, Carnegie Mellon University
+          </h6>
+        </div>
+        <center>
+          <a href="https://www.shirleyho.space/"></a>
+          <img src="static/images/shirley_ho.jpg" class="rounded" style="height: 160px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-5">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://mwang.princeton.edu/"><h5 class="card-title" align="center">Mengdi Wang</h5></a>
+        <div>
+          <!-- <h6 class="card-subtitle text-muted m-1" align="center">
+            Steering Committee
+          </h6> -->
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Princeton University
+          </h6>
+        </div>
+        <center>
+          <a href="https://mwang.princeton.edu/"></a>
+          <img src="static/images/Mengdi-Wang.jpg" class="rounded" style="height: 160px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+</div> 
+
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Young Scientist Committee</h2>
+  </div>
+</div>
+<!-- <div class="h3" style="line-height: 1.5; padding-bottom: 10px; text-align: center; padding-top: 20px;">
+    Young Scientist Committee
+</div> -->
+<div class="row">
+  
+  <div class="col-md-3 col-xs-5">
+    <div class="pp-card-small">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://yuanqidu.github.io/"><h5 class="card-title" align="center">Yuanqi Du</h5></a>
+        <div>
+          <!-- <h6 class="card-subtitle text-muted m-1" align="center">
+            Young Scientist Committee
+          </h6> -->
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Cornell University
+          </h6>
+        </div>
+        <center>
+          <a href="https://yuanqidu.github.io/"></a>
+          <img src="static/images/yuanqi.jpg" class="rounded" style="height: 130px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-3 col-xs-5">
+    <div class="pp-card-small">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://jiajunhe98.github.io/"><h5 class="card-title" align="center">Jiajun He</h5></a>
+        <div>
+          <!-- <h6 class="card-subtitle text-muted m-1" align="center">
+            Young Scientist Committee
+          </h6> -->
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            University of Cambridge
+          </h6>
+        </div>
+        <center>
+          <a href="https://jiajunhe98.github.io/"></a>
+          <img src="static/images/jiajun_he.jpg" class="rounded" style="height: 130px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+</div> 
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Sponsorship</h2>
+  </div>
+</div>
+
+<div class="h5" style="line-height: 1.5; padding-bottom: 50px">
+    If you are interested in sponsoring CAIS, please reach out to the
+    <a href="mailto:yd392@cornell.edu">CAIS Organizational Chair</a>.
+</div>
+
+
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2025 CAIS Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>
