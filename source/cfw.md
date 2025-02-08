@@ -1,27 +1,25 @@
 
-We invite proposals for workshops to be held in tandem with the 1st .
+We invite proposals for symposiums to be held in tandem with the 1st Conference on AI for Science.
 
 ---
 
-**Submission link:** to be posted on [https://colmweb.org/](https://colmweb.org/)
+**Submission link:** to be posted on [TBA]
 
-**Questions can be directed to:** [colm-workshops@googlegroups.com](mailto:colm-workshops@googlegroups.com)
+**Questions can be directed to:** [TBA]
 
 **Key Dates**  
 
 All deadlines are 23:59 AoE (anywhere on earth)
 
-* Workshop proposal deadline: April 14, 2025  
-* Proposal decision notifications: May 8, 2025  
-* Suggested submission deadline for workshop contributions: June 23, 2025  
-* Mandatory accept/reject notification for workshop contributions: July 24, 2025  
-* Workshops day at COLM: October 10, 2025
+* Symposium proposal deadline: May 9, 2025
+* Proposal decision notifications: June 2, 2025
+* Symposium contributed content deadline: August 15, 2025
 
 ---
 
 ## Scope
 
-COLM workshops should cover topics that intersect and expand upon the subject areas solicited in the COLM call for papers ([https://colmweb.org/cfp.html](https://colmweb.org/cfp.html)). In particular, we are primarily interested in hosting workshops that serve the following two purposes:
+<!-- COLM workshops should cover topics that intersect and expand upon the subject areas solicited in the COLM call for papers ([https://colmweb.org/cfp.html](https://colmweb.org/cfp.html)). In particular, we are primarily interested in hosting workshops that serve the following two purposes:
 
 1. **Building new communities and connections**. For example, we would prefer a workshop that aims to bring people together who are interested in a new/emerging area of research than one that focuses on a topic that is already well-represented in the main conference. Workshops should therefore provide opportunities for discussion and presentation of works in progress. At the same time, a workshop's scope and focus should be sufficiently broad to attract a meaningful number of attendees, and workshops whose primary function will be to highlight work by a single researcher or lab are discouraged.  
 2. **Provides opportunities for junior researchers and underrepresented groups**. The other primary goal of workshops is to provide a way for individuals who might not have the impetus or support to otherwise attend COLM. We are particularly interested in workshops that provide (possibly unconventional) ways to solicit and highlight the work of junior researchers and underrepresented groups.
@@ -55,4 +53,4 @@ The workshop co-chairs will review all workshop submissions, except in cases whe
 
 **Code of Conduct.** All COLM participants, including workshop organizers, attendees, and speakers, are required to adhere to the COLM code of conduct ([https://colmweb.org/CoC.html](https://colmweb.org/CoC.html)). More detailed guidance for authors, reviewers, and all other participants will be made available in due course, and participation will require acknowledging and adhering to the provided guidelines.
 
-**Code of Ethics.** All participants of COLM must abide by COLM’s code of ethics ([https://colmweb.org/CoE.html](https://colmweb.org/CoE.html)).
+**Code of Ethics.** All participants of COLM must abide by COLM’s code of ethics ([https://colmweb.org/CoE.html](https://colmweb.org/CoE.html)). -->
