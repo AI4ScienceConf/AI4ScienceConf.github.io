@@ -1,0 +1,8 @@
+{% set active_page = "Advisory Board" %} {% extends "base.html" %}
+
+<!-- Organizers -->
+
+{% block content %} {{ components.section("CAIS Advisory Board") }} 
+    <div class="h5" style="line-height: 1.5; padding-top: 0;  padding-bottom: 50px">
+        {{ advisory_board|markdown }}
+    </div> {% endblock %}
