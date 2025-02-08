@@ -214,11 +214,17 @@ def cfw():
     return render_template("cfw.html", **data)
 
 
-@app.route("/board.html")
-def board():
+@app.route("/steering_committee.html")
+def steering_committee():
     data = _data()
     data["steering_committee"] = site_data["committee"]["steering_committee"]
-    return render_template("board.html", **data)
+    return render_template("steering_committee.html", **data)
+
+@app.route("/young_committee.html")
+def young_scientist_committee():
+    data = _data()
+    data["young_committee"] = site_data["committee"]["young_committee"]
+    return render_template("young_committee.html", **data)
 
 
 @app.route("/program-overview.html")
@@ -302,11 +308,11 @@ def special_sessions():
     return render_template("SpecialSessions.html", **data)
 
 
-@app.route("/AcceptedPapers.html")
-def accepted_papers():
-    data = _data()
-    data["AcceptedPapers"] = site_data["accepted_papers"]
-    return render_template("AcceptedPapers.html", **data)
+# @app.route("/AcceptedPapers.html")
+# def accepted_papers():
+#     data = _data()
+#     data["AcceptedPapers"] = site_data["accepted_papers"]
+#     return render_template("AcceptedPapers.html", **data)
 
 
 @app.route("/survey.html")
