@@ -31,7 +31,7 @@
     </div>
 </div>
 
-{% endblock %} {% block content %} {{ components.section("International Conference on AI for Science") }}
+{% endblock %} {% block content %} {{ components.section("Conference on AI for Science (CAIS)") }}
 <!-- <div class="h4" style="line-height: 1.5; padding-bottom: 0px">
     Mission & Goal
 </div> -->
@@ -51,16 +51,19 @@
 </div>
 <img src="static/images/Venue.jpeg" alt="Princeton, NJ" style="width: 100%; max-width: 500px; display: block; margin: 0 auto; border-radius: 10px;">
 
-{{ components.section("Organizing Committee") }}
-<div class="h3" style="line-height: 1.5; padding-bottom: 10px; text-align: center; padding-top: 0px;">
+{{ components.section("Steering Committee") }}
+<!-- <div class="h3" style="line-height: 1.5; padding-bottom: 10px; text-align: center; padding-top: 0px;">
         Steering Committee
-    </div>
-{{ components.organizergroup(committee)
+    </div> -->
+
+{{ components.organizergroup(steering_committee)
 }} 
-<div class="h3" style="line-height: 1.5; padding-bottom: 10px; text-align: center; padding-top: 20px;">
+
+{{ components.section("Young Scientist Committee") }}
+<!-- <div class="h3" style="line-height: 1.5; padding-bottom: 10px; text-align: center; padding-top: 20px;">
     Young Scientist Committee
-</div>
-{{ components.smallorganizergroup(board)
+</div> -->
+{{ components.smallorganizergroup(young_committee)
 }} 
 {{ components.section("Sponsorship") }}
 

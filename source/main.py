@@ -73,8 +73,8 @@ def home():
     data["readme"] = open("README.md").read()
     data["about"] = open("about.md").read()
     data["dates"] = open("dates.md").read()
-    data["board"] = site_data["committee"]["board"]
-    data["committee"] = site_data["committee"]["committee"]
+    data["steering_committee"] = site_data["committee"]["steering_committee"]
+    data["young_committee"] = site_data["committee"]["young_committee"]
     return render_template("index.html", **data)
 
 
@@ -217,7 +217,7 @@ def cfw():
 @app.route("/board.html")
 def board():
     data = _data()
-    data["board"] = site_data["committee"]["board"]
+    data["steering_committee"] = site_data["committee"]["steering_committee"]
     return render_template("board.html", **data)
 
 

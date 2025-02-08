@@ -1,0 +1,6 @@
+{% set active_page = "Young Scientist Committee" %} {% extends "base.html" %}
+
+<!-- Organizers -->
+
+{% block content %} {{ components.section("CAIS Young Scientist Committee") }} {{
+components.organizergroup(young_committee) }} {% endblock %}

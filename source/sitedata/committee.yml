@@ -1,4 +1,4 @@
-committee:
+steering_committee:
   - role: Steering Committee
     name: Max Welling
     aff: University of Amsterdam, Microsoft Research, CIFAR and ELLIS.
@@ -51,15 +51,15 @@ committee:
   #   tw: srush_nlp
   #   ws: https://rush-nlp.com/
 
-board:
-  - role: Young Scientist Board
+young_committee:
+  - role: Young Scientist Committee
     name: Yuanqi Du
     aff: Cornell University
     im: static/images/yuanqi.jpg
     tw:
     ws: https://yuanqidu.github.io/
 
-  - role: Young Scientist Board
+  - role: Young Scientist Committee
     name: Jiajun He
     aff: University of Cambridge
     im: static/images/jiajun_he.jpg

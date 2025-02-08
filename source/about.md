@@ -1,13 +1,3 @@
-##### **Mission & Goal**
+The intersection of artificial intelligence and scientific discovery has led to transformative advancements across disciplines—from accelerating molecular design and materials discovery to enhancing climate modeling and understanding complex biological systems. As AI tools become increasingly sophisticated, their integration into scientific workflows is reshaping how we formulate hypotheses, analyze data, and simulate natural phenomena. However, the rapid growth of this interdisciplinary field has also highlighted the need for dedicated spaces to discuss methodologies, share breakthroughs, and establish best practices. 
 
-International Conference on AI for Science (CAIS) aims to foster a collaborative community bridging AI researchers and scientists interested in AI applications for scientific discovery. Given the surging interest in both fields, this event seeks to provide a structured platform for engagement, addressing publication models, venues, and community-building efforts.
-
-##### **Why Now?**
-
-- Significant interest from both AI and scientific communities.
-- The need for a structured and dedicated venue to facilitate cross-disciplinary collaboration.
-- Opportunity to establish a sustainable system for AI-driven scientific advancements.
-
-##### **Why Us?**
-
-The organizing team has extensive experience in conference planning and a strong commitment to advancing AI for Science.
+The Conference on AI for Science (CAIS) aims to foster a collaborative community bridging AI researchers and scientists interested in AI applications for scientific discovery. Given the surging interest in both fields, this event seeks to provide a structured platform for engagement, addressing publication models, venues, and community-building efforts. CAIS aspires to become a nexus where cutting-edge AI techniques meet real-world scientific challenges, promoting interdisciplinary dialogue, knowledge exchange, and long-term partnerships that advance both AI methods and scientific inquiry.

@@ -1,0 +1,6 @@
+{% set active_page = "Steering Committee" %} {% extends "base.html" %}
+
+<!-- Organizers -->
+
+{% block content %} {{ components.section("CAIS Steering Committee") }} {{
+components.organizergroup(steering_committee) }} {% endblock %}
