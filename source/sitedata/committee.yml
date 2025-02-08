@@ -1,28 +1,28 @@
 steering_committee:
   - role: Steering Committee
     name: Max Welling
-    aff: University of Amsterdam, Microsoft Research, CIFAR and ELLIS.
+    aff: University of Amsterdam, CuspAI
     im: static/images/max_welling.jpg
     # tw: dipanjand
     ws: https://staff.fnwi.uva.nl/m.welling/
 
   - role: Steering Committee
     name: Eric Xing
-    aff: Mohamed bin Zayed University of Artificial Intelligence, Carnegie Mellon University. 
+    aff: Mohamed bin Zayed University of Artificial Intelligence, Carnegie Mellon University
     im: static/images/Eric_Xing.jpg
     # tw: yoavartzi
     ws: https://www.cs.cmu.edu/~epxing/
 
   - role: Steering Committee
     name: Tommi Jaakkola
-    aff: MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
+    aff: MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
     im: static/images/tommi.png
     tw:
     ws: https://people.csail.mit.edu/tommi/
     
   - role: Steering Committee
     name: Shirley Ho
-    aff: Flatiron Institute, Carnegie Mellon University.
+    aff: Flatiron Institute, Carnegie Mellon University
     im: static/images/shirley_ho.jpg
     # tw:
     ws: https://www.shirleyho.space/
