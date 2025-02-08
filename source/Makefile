@@ -21,7 +21,7 @@ run:
 
 freeze:
 	python3 main.py sitedata/ --build
-	cp -rf .well-known build
+	cp -rf ../.well-known build
 
 # check code format
 format-check:
