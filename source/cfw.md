@@ -19,6 +19,8 @@ All deadlines are 23:59 AoE (anywhere on earth)
 
 ## Scope
 
+CAIS calls for symposiums covering a wide range of topics in the intersection of AI and sciences including but not limited to physics, chemistry, biology, materials and sustainability. 
+
 <!-- COLM workshops should cover topics that intersect and expand upon the subject areas solicited in the COLM call for papers ([https://colmweb.org/cfp.html](https://colmweb.org/cfp.html)). In particular, we are primarily interested in hosting workshops that serve the following two purposes:
 
 1. **Building new communities and connections**. For example, we would prefer a workshop that aims to bring people together who are interested in a new/emerging area of research than one that focuses on a topic that is already well-represented in the main conference. Workshops should therefore provide opportunities for discussion and presentation of works in progress. At the same time, a workshop's scope and focus should be sufficiently broad to attract a meaningful number of attendees, and workshops whose primary function will be to highlight work by a single researcher or lab are discouraged.  

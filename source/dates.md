@@ -3,8 +3,8 @@
 
 ##### **Main Track Submission Timeline**
 
-- Abstract deadline: April 21, 2025
-- Full paper submission deadline: April 25, 2025
+- Abstract deadline: April 15, 2025
+- Full paper submission deadline: April 20, 2025
 - Rebuttal period starts: July 1, 2025
 - Rebuttal period ends: July 15, 2025
 - Decision notifications: August 8, 2025
