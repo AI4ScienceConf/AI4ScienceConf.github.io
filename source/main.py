@@ -75,6 +75,7 @@ def home():
     data["dates"] = open("dates.md").read()
     data["steering_committee"] = site_data["committee"]["steering_committee"]
     data["young_committee"] = site_data["committee"]["young_committee"]
+    data["scientific_advisor"] = site_data["committee"]["scientific_advisor"]
     return render_template("index.html", **data)
 
 
@@ -232,6 +233,11 @@ def advisory_board():
     data["advisory_board"] = open("advisory.md").read()
     return render_template("advisory_board.html", **data)
 
+@app.route("/scientific_advisor.html")
+def scientific_advisor():
+    data = _data()
+    data["scientific_advisor"] = site_data["committee"]["scientific_advisor"]
+    return render_template("scientific_advisor.html", **data)
 
 @app.route("/program-overview.html")
 def program_overview():

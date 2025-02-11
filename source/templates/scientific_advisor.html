@@ -1,0 +1,6 @@
+{% set active_page = "Scientific Advisor" %} {% extends "base.html" %}
+
+<!-- Organizers -->
+
+{% block content %} {{ components.section("CAIS Scientific Advisor") }} {{
+components.organizergroup(scientific_advisor) }} {% endblock %}

@@ -66,6 +66,44 @@ young_committee:
     tw:
     ws: https://jiajunhe98.github.io/
 
+
+scientific_advisor:
+  - role: Scientific Advisor
+    name: Carla P. Gome
+    aff: Institute for Computational Sustainability at Cornell University, Cornell University AI for Science Institute
+    im: static/images/carla_gome.jpg
+    tw:
+    ws: https://www.cs.cornell.edu/gomes/
+
+  - role: Scientific Advisor
+    name: George Church
+    aff: Harvard Medical School, Massachusetts Institute of Technology (MIT)
+    im: static/images/George_Church.jpg
+    tw:
+    ws: https://arep.med.harvard.edu/ 
+
+  - role: Scientific Advisor
+    name: David MacMillan
+    aff: Princeton University
+    im: static/images/David-MacMillan.jpg
+    tw:
+    ws: https://macmillan.princeton.edu/
+
+  - role: Scientific Advisor
+    name: Russ B. Altman
+    aff: Stanford University
+    im: static/images/Russ_Altman.jpg
+    tw:
+    ws: https://profiles.stanford.edu/russ-altman
+
+
+  - role: Scientific Advisor
+    name: Kai Li
+    aff: Princeton University
+    im: static/images/kai_li.jpg
+    tw:
+    ws: https://www.cs.princeton.edu/people/profile/li
+
   # - role: DEI Chair
   #   name: Alice Oh
   #   aff: KAIST
