@@ -227,11 +227,11 @@ def young_scientist_committee():
     data["young_committee"] = site_data["committee"]["young_committee"]
     return render_template("young_committee.html", **data)
 
-@app.route("/advisory_board.html")
-def advisory_board():
-    data = _data()
-    data["advisory_board"] = open("advisory.md").read()
-    return render_template("advisory_board.html", **data)
+# @app.route("/advisory_board.html")
+# def advisory_board():
+#     data = _data()
+#     data["advisory_board"] = open("advisory.md").read()
+#     return render_template("advisory_board.html", **data)
 
 @app.route("/scientific_advisor.html")
 def scientific_advisor():
