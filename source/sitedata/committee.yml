@@ -69,15 +69,15 @@ young_committee:
 
 scientific_advisor:
   - role: Scientific Advisor
-    name: Carla P. Gome
-    aff: Institute for Computational Sustainability at Cornell University, Cornell University AI for Science Institute
+    name: Carla P. Gomes
+    aff: Cornell University
     im: static/images/carla_gome.jpg
     tw:
     ws: https://www.cs.cornell.edu/gomes/
 
   - role: Scientific Advisor
     name: George Church
-    aff: Harvard Medical School, Massachusetts Institute of Technology (MIT)
+    aff: Harvard and MIT
     im: static/images/George_Church.jpg
     tw:
     ws: https://arep.med.harvard.edu/ 
