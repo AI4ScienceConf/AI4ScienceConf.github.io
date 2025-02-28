@@ -115,7 +115,7 @@ scientific_advisor:
     aff:  Facebook, the Courant Institute at New York University
     im: static/images/yannlecun.jpg
     tw:
-    ws: https://www.cs.princeton.edu/people/profile/li
+    ws: http://yann.lecun.com/
 
   # - role: DEI Chair
   #   name: Alice Oh
