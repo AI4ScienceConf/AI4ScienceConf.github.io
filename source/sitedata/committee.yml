@@ -36,6 +36,12 @@ steering_committee:
     # tw: eunsolc
     ws: https://mwang.princeton.edu/
 
+  - role: Steering Committee
+    name: Emmanuel Candès
+    aff: Stanford University
+    im: static/images/emmanuel.jpg
+    # tw: eunsolc
+    ws: https://candes.su.domains/
 
 
   # - role: Local Chair
@@ -101,6 +107,13 @@ scientific_advisor:
     name: Kai Li
     aff: Princeton University
     im: static/images/kai_li.jpg
+    tw:
+    ws: https://www.cs.princeton.edu/people/profile/li
+
+  - role: Scientific Advisor
+    name: Yann LeCun
+    aff:  Facebook, the Courant Institute at New York University
+    im: static/images/yannlecun.jpg
     tw:
     ws: https://www.cs.princeton.edu/people/profile/li
 
