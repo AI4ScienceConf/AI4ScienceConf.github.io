@@ -45,19 +45,6 @@ steering_committee:
     ws: http://yann.lecun.com/
 
 
-  # - role: Local Chair
-  #   name: Siva Reddy
-  #   aff: McGill-MILA / ServiceNow
-  #   im: static/images/siva.jpg
-  #   tw: sivareddyg
-  #   ws: https://sivareddy.in/
-  # - role: Organizational Chair
-  #   name: Alexander Rush
-  #   aff: Cornell Tech, Hugging Face
-  #   im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
-  #   tw: srush_nlp
-  #   ws: https://rush-nlp.com/
-
 young_committee:
   - role: Young Scientist Committee
     name: Yuanqi Du

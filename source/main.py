@@ -73,9 +73,16 @@ def home():
     data["readme"] = open("README.md").read()
     data["about"] = open("about.md").read()
     data["dates"] = open("dates.md").read()
-    data["steering_committee"] = site_data["committee"]["steering_committee"]
-    data["young_committee"] = site_data["committee"]["young_committee"]
-    data["scientific_advisor"] = site_data["committee"]["scientific_advisor"]
+    # Retrieve committee data
+    steering_committee = site_data["committee"]["steering_committee"]
+    young_committee = site_data["committee"]["young_committee"]
+    scientific_advisor = site_data["committee"]["scientific_advisor"]
+
+    # Sort each committee list by last name (family name)
+    data["steering_committee"] = sorted(steering_committee, key=lambda x: x["name"].split()[-1])
+    data["young_committee"] = sorted(young_committee, key=lambda x: x["name"].split()[-1])
+    data["scientific_advisor"] = sorted(scientific_advisor, key=lambda x: x["name"].split()[-1])
+
     return render_template("index.html", **data)
 
 
@@ -218,26 +225,36 @@ def cfw():
 @app.route("/steering_committee.html")
 def steering_committee():
     data = _data()
-    data["steering_committee"] = site_data["committee"]["steering_committee"]
+    steering_committee = site_data["committee"]["steering_committee"]
+    
+    # Sort by last name (family name)
+    sorted_steering_committee = sorted(steering_committee, key=lambda x: x["name"].split()[-1])
+    
+    data["steering_committee"] = sorted_steering_committee
     return render_template("steering_committee.html", **data)
 
 @app.route("/young_committee.html")
 def young_scientist_committee():
     data = _data()
-    data["young_committee"] = site_data["committee"]["young_committee"]
+    young_committee = site_data["committee"]["young_committee"]
+    
+    # Sort by last name (family name)
+    sorted_young_committee = sorted(young_committee, key=lambda x: x["name"].split()[-1])
+    
+    data["young_committee"] = sorted_young_committee
     return render_template("young_committee.html", **data)
-
-# @app.route("/advisory_board.html")
-# def advisory_board():
-#     data = _data()
-#     data["advisory_board"] = open("advisory.md").read()
-#     return render_template("advisory_board.html", **data)
 
 @app.route("/scientific_advisor.html")
 def scientific_advisor():
     data = _data()
-    data["scientific_advisor"] = site_data["committee"]["scientific_advisor"]
+    scientific_advisor = site_data["committee"]["scientific_advisor"]
+    
+    # Sort by last name (family name)
+    sorted_scientific_advisor = sorted(scientific_advisor, key=lambda x: x["name"].split()[-1])
+    
+    data["scientific_advisor"] = sorted_scientific_advisor
     return render_template("scientific_advisor.html", **data)
+
 
 @app.route("/program-overview.html")
 def program_overview():
