@@ -15,7 +15,7 @@ steering_committee:
 
   - role: Steering Committee
     name: Tommi Jaakkola
-    aff: MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
+    aff: MIT
     im: static/images/tommi.png
     tw:
     ws: https://people.csail.mit.edu/tommi/
@@ -39,7 +39,7 @@ steering_committee:
 
   - role: Steering Committee
     name: Yann LeCun
-    aff:  Facebook, the Courant Institute at New York University
+    aff:  New York University
     im: static/images/yannlecun.jpg
     tw:
     ws: http://yann.lecun.com/
@@ -66,12 +66,20 @@ young_committee:
     tw:
     ws: https://yuanqidu.github.io/
 
+  - role: Symposium Chair
+    name: Sherry Lixue Cheng
+    aff: Microsoft Research
+    im: static/images/sherry.jpg
+    tw:
+    ws: https://sherrylixuecheng.github.io/
+
   - role: Young Scientist Committee
     name: Jiajun He
     aff: University of Cambridge
     im: static/images/jiajun_he.jpg
     tw:
     ws: https://jiajunhe98.github.io/
+
 
 
 scientific_advisor:
