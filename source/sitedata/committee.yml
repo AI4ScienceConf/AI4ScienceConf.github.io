@@ -1,7 +1,8 @@
 steering_committee:
   - role: Steering Committee
     name: Max Welling
-    aff: University of Amsterdam, CuspAI
+    aff: University of Amsterdam, CuspAI, Microsoft Research, CIFAR, ELLIS
+    details: Research Chair in Machine Learning at the University of Amsterdam and Co-founder of CuspAI. Distinguished Scientist at Microsoft Research. Fellow at CIFAR and ELLIS, with prior roles including VP at Qualcomm Technologies and Microsoft Research.
     im: static/images/max_welling.jpg
     # tw: dipanjand
     ws: https://staff.fnwi.uva.nl/m.welling/
@@ -15,7 +16,7 @@ steering_committee:
 
   - role: Steering Committee
     name: Tommi Jaakkola
-    aff: MIT
+    aff: Massachusetts Institute of Technology
     im: static/images/tommi.png
     tw:
     ws: https://people.csail.mit.edu/tommi/
@@ -79,7 +80,7 @@ scientific_advisor:
 
   - role: Scientific Advisor
     name: George Church
-    aff: Harvard and MIT
+    aff: Harvard University, Massachusetts Institute of Technology
     im: static/images/George_Church.jpg
     tw:
     ws: https://arep.med.harvard.edu/ 

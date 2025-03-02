@@ -79,37 +79,94 @@ workshopgroup
 {% endfor %}
 {%- endmacro %}
 
-{% macro organizergroup(committee) -%}
+
+
+{% macro organizergroup(committee) %}
+<style>
+  .card-flip {
+    perspective: 1000px;
+    margin-bottom: 30px;
+    position: relative;
+    z-index: 0;
+  }
+  .card-flip:hover {
+    z-index: 999;
+  }
+  .card-flip-inner {
+    position: relative;
+    width: 100%;
+    min-height: 350px; /* Enough room for front & back content */
+    transition: transform 0.8s ease;
+    transform-style: preserve-3d;
+  }
+  .card-flip:hover .card-flip-inner {
+    transform: rotateY(180deg);
+  }
+  .card-flip-front,
+  .card-flip-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    backface-visibility: hidden;
+    border-radius: 5px;
+    background: #fff; /* or whatever card bg you prefer */
+  }
+  .card-flip-back {
+    transform: rotateY(180deg);
+  }
+</style>
+
 <div class="row">
   {% for org in committee %}
-  <div class="col-md-4 col-xs-5">
-    <div class="pp-card">
-      <div class="pp-card-header" class="text-muted">
-        <a href="{{org.ws}}"><h5 class="card-title" align="center">{{org.name}}</h5></a>
-        <div>
-          <!-- <h6 class="card-subtitle text-muted m-1" align="center">
-            {{org.role}}
-          </h6> -->
-        </div>
-        <div>
-          <h6 class="card-subtitle text-muted m-1" align="center">
-            {{org.aff}}{% if org.tw %} /
-            <a class="text-muted" href="http://twitter.com/{{org.tw}}"
-              >@{{org.tw}}</a
-            >{% endif %}
-          </h6>
-        </div>
-        <center>
-          <a href="{{org.ws}}"></a>
-          <img src="{{org.im}}" class="rounded" style="height: 160px;" />
-        </a>
-        </center>
-      </div>
+    <div class="col-md-4 col-xs-5">
+      <div class="card-flip">
+        <div class="card-flip-inner">
+
+          <!-- Front of card -->
+          <div class="card-flip-front">
+            <div class="pp-card">
+              <div class="pp-card-header text-muted">
+                <a href="{{ org.ws }}">
+                  <h5 class="card-title" align="center">{{ org.name }}</h5>
+                </a>
+                <h6 class="card-subtitle text-muted m-1" align="center">
+                  {{ org.aff }}
+                  {% if org.tw %}
+                    /
+                    <a class="text-muted" href="http://twitter.com/{{ org.tw }}">@{{ org.tw }}</a>
+                  {% endif %}
+                </h6>
+                <center>
+                  <img src="{{ org.im }}" class="rounded" style="height: 160px;" />
+                </center>
+              </div>
+            </div>
+          </div>
+
+          <!-- Back of card -->
+          <div class="card-flip-back">
+            <div class="pp-card">
+              <div class="pp-card-header text-muted">
+                <a href="{{ org.ws }}">
+                  <h5 class="card-title" align="center">{{ org.name }}</h5>
+                </a>
+                <a href="{{ org.ws }}">
+                <h6 class="card-subtitle text-muted m-1" align="center">
+                  {{ org.details }}
+                </h6>
+              </a>
+              </div>
+            </div>
+          </div>
+
+        </div> <!-- .card-flip-inner -->
+      </div> <!-- .card-flip -->
     </div>
-  </div>
   {% endfor %}
 </div>
-{%- endmacro %}
+{% endmacro %}
 
 
 
