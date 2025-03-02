@@ -1,9 +1,9 @@
 
-Thank you for agreeing to serve on the program committee of COLM 2025! As an area chair (AC), your job is to ensure that all the submissions you are assigned have high quality reviews and good discussions. You should become familiar with the technical contents of all your submissions and are responsible for making the initial acceptance decisions.
+Thank you for agreeing to serve on the program committee of CAIS 2025! As an area chair (AC), your job is to ensure that all the submissions you are assigned have high quality reviews and good discussions. You should become familiar with the technical contents of all your submissions and are responsible for making the initial acceptance decisions.
 
 If you encounter a situation that you are unable to resolve on your own:
 - If it is an issue involving OpenReview, please contact info@openreview.net.
-- Otherwise, please contact the program chairs at [colm-pcs@googlegroups.com](mailto:colm-pcs@googlegroups.com).
+- Otherwise, please contact the CAIS organizational chair at [yd392@cornell.edu](mailto:yd392@cornell.edu).
 
 Please consult the [**important dates**](/dates) page for the expected timeline for the tasks below. We will communicate each task as the process progresses. 
 
@@ -11,8 +11,8 @@ Please consult the [**important dates**](/dates) page for the expected timeline 
 1. Preparation:
     - Please ensure that your preferred email address is accurate in your OpenReview profile. We will send most emails from OpenReview (noreply@openreview.net). Such emails are sometimes accidentally marked as spam (and sometimes as updates in Gmail). Please check your spam folder regularly. If you find such an email in there, please whitelist the OpenReview email address so that you will receive future emails from OpenReview.
     - Please log into OpenReview and make sure that your profile is up to date.
-    - Review COLM [code of conduct](/Coc).
-    - Read what constitutes [conflict of interest](/coi-policy) for COLM 2025.
+    - Review CAIS [code of conduct](/Coc).
+    - Read what constitutes [conflict of interest](/coi-policy) for CAIS 2025.
     - In addition to the guidelines below, please familiarize yourself with the [reviewer responsibilities and guidelines](/ReviewGuide). You will be interacting significantly with reviewers, so please make sure you understand what is expected of them.
 1. Paper assignments:
     - We do not have AC bidding. Instead, we will use the matching algorithm and assign the papers automatically. While it is possible that this may result in less than optimal assignments, we rely on your experience and insight in handling papers from a variety of topics rather than on your specific topic expertise. Please bear in mind that we are handling an extra large number of submissions, so your flexibility is greatly appreciated. 

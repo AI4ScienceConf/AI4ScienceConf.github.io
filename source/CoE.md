@@ -1,11 +1,11 @@
 
 
 
-**Responsible Stewardship** The Conference on Language Modeling (COLM) is committed to promoting good conduct and a reflexive and responsible approach to research and its applications, especially with respect to research and development related to language modeling, machine learning and artificial intelligence. This Code is a vital part of our continuing effort to encourage reflection of the wider impacts of work that is considered by the conference, and to encourage work that consistently supports the responsible stewardship of trustworthy research that advances knowledge, public good and well-being.
+**Responsible Stewardship** The Conference on AI for Science (CAIS) is committed to foster a collaborative community bridging AI researchers and scientists interested in AI applications for scientific discovery. This Code is a vital part of our continuing effort to encourage reflection of the wider impacts of work that is considered by the conference, and to encourage work that consistently supports the responsible stewardship of trustworthy research that advances knowledge, public good and well-being.
 
-**Aims** This Code of Ethics provides general ethical principles, applicable to both individual researchers and to organizations that carry out, fund, host, or are otherwise involved in research, and associated with COLM. The Code should not be seen as prescriptive but as a set of principles to guide ethical, responsible research.
+**Aims** This Code of Ethics provides general ethical principles, applicable to both individual researchers and to organizations that carry out, fund, host, or are otherwise involved in research, and associated with CAIS. The Code should not be seen as prescriptive but as a set of principles to guide ethical, responsible research.
 
-**Positive Action** This code applies to all contributors to COLM, including reviewers, authors, speakers, organizers of the conference, tutorials, workshops, sponsors, and attendees. COLM’s contributors are expected to acknowledge this code, and whenever necessary, include a discussion in their contributions that expands on the wider impacts of their work, using this Code as one source of ethical considerations.
+**Positive Action** This code applies to all contributors to CAIS, including reviewers, authors, speakers, organizers of the conference, tutorials, workshops, sponsors, and attendees. CAIS’s contributors are expected to acknowledge this code, and whenever necessary, include a discussion in their contributions that expands on the wider impacts of their work, using this Code as one source of ethical considerations.
 
 **Acknowledgments** This code utilizes the [ICLR Code of Ethics](https://iclr.cc/public/CodeOfEthics).
 
@@ -53,7 +53,7 @@
 
 <a name="be-fair" />
 #### Be Fair and Take Action not to Discriminate
-* The values of equality, tolerance, respect for others, and justice govern this principle. The COLM [Code of Conduct](/CoC.html) provides additional details of expected behavior at the Conference. 
+* The values of equality, tolerance, respect for others, and justice govern this principle. The CAIS [Code of Conduct](/CoC.html) provides additional details of expected behavior at the Conference. 
 * Fairness requires that even careful decision processes provide some avenue for redress of grievances.
 * Researchers should foster fair participation of all people—in their research, at the conference and generally—including those of underrepresented groups. 
 * The use of information and technology may cause new, or enhance existing, inequities. Technologies and practices should be as inclusive and accessible as possible and researchers should take action to avoid creating systems or technologies that disenfranchise or oppress people.
@@ -84,7 +84,7 @@
 
 <a name="concern-remediation" />
 #### Concerns and Remediation
-This Code should be read in concert with the COLM Code of Conduct. Concerns can be raised regarding any conduct and contributions that contravene this Code. Where ethical concerns are raised during the review of research contributions, or in the conduct of scientific communication and exchange, this Code serves as an additional basis for remediation of possible violation. COLM reserves the right to reject and refuse the presentation of any scientific work found to violate the ethical guidelines put forth here, at any point. Processes for raising concerns and remediation are described in the Call for Papers/Author Guide and in the [Code of Conduct](/CoC.html). 
+This Code should be read in concert with the CAIS Code of Conduct. Concerns can be raised regarding any conduct and contributions that contravene this Code. Where ethical concerns are raised during the review of research contributions, or in the conduct of scientific communication and exchange, this Code serves as an additional basis for remediation of possible violation. CAIS reserves the right to reject and refuse the presentation of any scientific work found to violate the ethical guidelines put forth here, at any point. Processes for raising concerns and remediation are described in the Call for Papers/Author Guide and in the [Code of Conduct](/CoC.html). 
 
 
 #### Related Codes and References 
@@ -99,7 +99,7 @@ Codes that will be of broader relevance and interest, and that have informed thi
 * Organizational AI principles including the [Asilomar AI Principles](https://futureoflife.org/ai-principles/?cn-reloaded=1), [IBM Principles](https://www.ibm.com/blogs/policy/trust-principles/) for Trust and Transparency, [Google](https://ai.google/principles/) AI principles, [Microsoft](https://www.microsoft.com/en-us/ai/responsible-ai) AI Principles, the [Montreal Declaration](https://www.montrealdeclaration-responsibleai.com/the-declaration) on Responsible AI, the [OECD](https://www.oecd.org/going-digital/ai/principles/) AI principles, the [Toronto Declaration](https://www.torontodeclaration.org/declaration-text/english/), and the [Treaty of Waitangi](https://www.taiuru.maori.nz/tiritiethicalguide/).
 
 #### Ongoing Review
-This Code will be reviewed regularly, initially on an annual basis. COLM welcomes feedback from organizations and researchers on the current version, to inform the review.  Last Reviewed, March 2024.
+This Code will be reviewed regularly, initially on an annual basis. CAIS welcomes feedback from organizations and researchers on the current version, to inform the review.  Last Reviewed, March 2024.
 
 #### Definitions
 

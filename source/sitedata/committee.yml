@@ -46,7 +46,7 @@ steering_committee:
 
 
 young_committee:
-  - role: Young Scientist Committee
+  - role: General Chair
     name: Yuanqi Du
     aff: Cornell University
     im: static/images/yuanqi.jpg
@@ -60,7 +60,7 @@ young_committee:
     tw:
     ws: https://sherrylixuecheng.github.io/
 
-  - role: Young Scientist Committee
+  - role: 
     name: Jiajun He
     aff: University of Cambridge
     im: static/images/jiajun_he.jpg

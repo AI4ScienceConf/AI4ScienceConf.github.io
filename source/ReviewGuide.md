@@ -1,4 +1,4 @@
-Thank you for being part of the COLM program committee! We aim for a technically deep, exciting, forward-looking, insightful, and impactful program. We ask that you thoughtfully consider each paper assigned to you during the review process, and avoid simply applying mechanistic measures of quality. Papers can excel along several dimensions. Of course, few papers if any excel along all dimensions, and our job as the program committee is to carefully weigh contributions along the different dimensions to identify the best work to include at COLM. 
+Thank you for being part of the CAIS program committee! We aim for a technically deep, exciting, forward-looking, insightful, and impactful program. We ask that you thoughtfully consider each paper assigned to you during the review process, and avoid simply applying mechanistic measures of quality. Papers can excel along several dimensions. Of course, few papers if any excel along all dimensions, and our job as the program committee is to carefully weigh contributions along the different dimensions to identify the best work to include at CAIS. 
 
 A non-exhaustive list of such dimensions includes: 
 
