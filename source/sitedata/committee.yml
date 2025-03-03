@@ -2,7 +2,7 @@ steering_committee:
   - role: Steering Committee
     name: Max Welling
     aff: University of Amsterdam, CuspAI, Microsoft Research, CIFAR, ELLIS
-    details: Research Chair in Machine Learning at the University of Amsterdam and Co-founder of CuspAI. Distinguished Scientist at Microsoft Research. Fellow at CIFAR and ELLIS, with prior roles including VP at Qualcomm Technologies and Microsoft Research.
+    details: Research Chair in Machine Learning at the University of Amsterdam and Co-founder of CuspAI. Fellow at CIFAR and ELLIS, with prior roles including VP at Qualcomm Technologies and Microsoft Research.
     im: static/images/max_welling.jpg
     # tw: dipanjand
     ws: https://staff.fnwi.uva.nl/m.welling/
@@ -10,6 +10,7 @@ steering_committee:
   - role: Steering Committee
     name: Eric Xing
     aff: Mohamed bin Zayed University of Artificial Intelligence, Carnegie Mellon University
+    details: Professor at Machine Learning Department and  Language Technology Institute & Computer Science Department in the School of Computer Science at Carnegie Mellon University. President at Mohamed bin Zayed University of Artificial Intelligence.
     im: static/images/Eric_Xing.jpg
     # tw: yoavartzi
     ws: https://www.cs.cmu.edu/~epxing/
@@ -17,6 +18,7 @@ steering_committee:
   - role: Steering Committee
     name: Tommi Jaakkola
     aff: Massachusetts Institute of Technology
+    details: Thomas Siebel Professor of Electrical Engineering and Computer Science and the Institute for Data, Systems, and Society at MIT Computer Science and Artificial Intelligence Laboratory.
     im: static/images/tommi.png
     tw:
     ws: https://people.csail.mit.edu/tommi/
@@ -24,6 +26,7 @@ steering_committee:
   - role: Steering Committee
     name: Shirley Ho
     aff: Flatiron Institute, Carnegie Mellon University
+    details: Group Leader of Cosmology X Data Science, CCA, Simons Foundation. Professor at Department of Physics & Center for Data Science at NYU
     im: static/images/shirley_ho.jpg
     # tw:
     ws: https://www.shirleyho.space/
@@ -33,6 +36,7 @@ steering_committee:
   - role: Steering Committee
     name: Mengdi Wang
     aff: Princeton University
+    details: Professor at the Center for Statistics and Machine Learning, Department of Electrical and Computer Engineering, and Department of Computer Science and the Omenn-Darling Bioengineering Institute at Princeton University. Founder and co-director of Princeton AI for Accelerated Invention. Also affiliated with the Princeton ML Theory Group and Princeton Language+Intelligence Initiative. Visiting research scientist at DeepMind, Institute of Advanced Studies, and Simons Institute on Theoretical Computer Science. 
     im: static/images/Mengdi-Wang.jpg
     # tw: eunsolc
     ws: https://mwang.princeton.edu/
@@ -40,7 +44,8 @@ steering_committee:
 
   - role: Steering Committee
     name: Yann LeCun
-    aff:  New York University
+    aff:  Meta, New York University
+    details: Chief AI Scientist at Meta. Jacob T. Schwartz Professor of Computer Science, Data Science, Neural Science, and Electrical and Computer Engineering, New York University. Member of National Academy of Engineering, National Academy of Sciences, Académie des Sciences. Fellow at ACM, AAAI, AAAS and SIF.
     im: static/images/yannlecun.jpg
     tw:
     ws: http://yann.lecun.com/
@@ -74,6 +79,7 @@ scientific_advisor:
   - role: Scientific Advisor
     name: Carla P. Gomes
     aff: Cornell University
+    details: Ronald C. and Antonia V. Nielsen Professor of Computing and Information Science, the director of the Institute for Computational Sustainability at Cornell University, and co-director of the Cornell University AI for Science Institute.
     im: static/images/carla_gome.jpg
     tw:
     ws: https://www.cs.cornell.edu/gomes/
@@ -81,6 +87,7 @@ scientific_advisor:
   - role: Scientific Advisor
     name: George Church
     aff: Harvard University, Massachusetts Institute of Technology
+    details: Founding Core Faculty & Lead of Synthetic Biology at Wyss Institute at Harvard University. Robert Winthrop Professor of Genetics at Harvard Medical School. Professor of Health Sciences and Technology at Harvard and MIT.
     im: static/images/George_Church.jpg
     tw:
     ws: https://arep.med.harvard.edu/ 
@@ -88,6 +95,7 @@ scientific_advisor:
   - role: Scientific Advisor
     name: David MacMillan
     aff: Princeton University
+    details: James S. McDonnell Distinguished University Professor of Chemistry at Princeton University.
     im: static/images/David-MacMillan.jpg
     tw:
     ws: https://macmillan.princeton.edu/
@@ -95,6 +103,7 @@ scientific_advisor:
   - role: Scientific Advisor
     name: Russ B. Altman
     aff: Stanford University
+    details: Kenneth Fong Professor of Bioengineering, Genetics, Medicine, Biomedical Data Science and Computer Science, and past chairman of the Bioengineering Department at Stanford University. 
     im: static/images/Russ_Altman.jpg
     tw:
     ws: https://profiles.stanford.edu/russ-altman
@@ -103,6 +112,7 @@ scientific_advisor:
   - role: Scientific Advisor
     name: Kai Li
     aff: Princeton University
+    details: Paul M. Wythes and Marcia R. Wythes Professor in Computer Science. ACM fellow, IEEE fellow, member of the National Academy of Engineering and the Washington State Academy of Sciences.
     im: static/images/kai_li.jpg
     tw:
     ws: https://www.cs.princeton.edu/people/profile/li
@@ -110,6 +120,7 @@ scientific_advisor:
   - role: Scientific Advisor
     name: Emmanuel Candès
     aff: Stanford University
+    details: The Barnum-Simons Chair in Mathematics and Statisticsat Stanford University. Professor of Mathematics and of Statistics. Professor of Electrical Engineering (by courtesy). Co-chair of Data Science Institute.
     im: static/images/emmanuel.jpg
     # tw: eunsolc
     ws: https://candes.su.domains/
