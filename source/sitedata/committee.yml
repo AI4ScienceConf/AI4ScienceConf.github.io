@@ -23,13 +23,13 @@ steering_committee:
     tw:
     ws: https://people.csail.mit.edu/tommi/
     
-  - role: Steering Committee
-    name: Shirley Ho
-    aff: Flatiron Institute, Carnegie Mellon University
-    details: Group Leader of Cosmology X Data Science, CCA, Simons Foundation. Professor at Department of Physics & Center for Data Science at NYU
-    im: static/images/shirley_ho.jpg
-    # tw:
-    ws: https://www.shirleyho.space/
+  # - role: Steering Committee
+  #   name: Shirley Ho
+  #   aff: Flatiron Institute, Carnegie Mellon University
+  #   details: Group Leader of Cosmology X Data Science, CCA, Simons Foundation. Professor at Department of Physics & Center for Data Science at NYU
+  #   im: static/images/shirley_ho.jpg
+  #   # tw:
+  #   ws: https://www.shirleyho.space/
 
 
 
@@ -55,6 +55,7 @@ young_committee:
   - role: General Chair
     name: Yuanqi Du
     aff: Cornell University
+    details: PhD student at Cornell University
     im: static/images/yuanqi.jpg
     tw:
     ws: https://yuanqidu.github.io/
@@ -62,6 +63,7 @@ young_committee:
   - role: Symposium Chair
     name: Sherry Lixue Cheng
     aff: Microsoft Research
+    details:  Researcher at Microsoft research AI4Sci Lab.
     im: static/images/sherry.jpg
     tw:
     ws: https://sherrylixuecheng.github.io/
@@ -69,6 +71,7 @@ young_committee:
   - role: 
     name: Jiajun He
     aff: University of Cambridge
+    details: PhD student at University of Cambridge
     im: static/images/jiajun_he.jpg
     tw:
     ws: https://jiajunhe98.github.io/
@@ -95,7 +98,7 @@ scientific_advisor:
   - role: Scientific Advisor
     name: David MacMillan
     aff: Princeton University
-    details: James S. McDonnell Distinguished University Professor of Chemistry at Princeton University.
+    details: James S. McDonnell Distinguished University Professor of Chemistry at Princeton University. 2021 Nobel Prize Laureate in Chemistry with Benjamin List “for the development of asymmetric organocatalysis”.
     im: static/images/David-MacMillan.jpg
     tw:
     ws: https://macmillan.princeton.edu/
