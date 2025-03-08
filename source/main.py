@@ -215,11 +215,17 @@ def cfp():
     return render_template("cfp.html", **data)
 
 
-@app.route("/cfw.html")
-def cfw():
+@app.route("/cfs.html")
+def cfs():
     data = _data()
-    data["cfw"] = open("cfw.md").read()
-    return render_template("cfw.html", **data)
+    data["cfs"] = open("cfs.md").read()
+    return render_template("cfs.html", **data)
+
+@app.route("/cft.html")
+def cft():
+    data = _data()
+    data["cft"] = open("cft.md").read()
+    return render_template("cft.html", **data)
 
 
 @app.route("/steering_committee.html")

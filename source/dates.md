@@ -14,3 +14,7 @@
 - Symposium proposal deadline: May 9, 2025
 - Proposal decision notifications: June 2, 2025
 - Symposium contributed content deadline: August 15, 2025
+
+##### **Tutorial Submission Timeline**
+- Tutorial proposal deadline: May 9, 2025
+- Proposal decision notifications: June 2, 2025
