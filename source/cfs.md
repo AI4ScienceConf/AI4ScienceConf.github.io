@@ -1,4 +1,4 @@
-CAIS 2025 calls for symposiums covering a wide range of topics in the intersection of AI and sciences including but not limited to physics, chemistry, biology, materials and sustainability.
+CAIS 2025 calls for symposia covering a wide range of topics in the intersection of AI and sciences including but not limited to physics, chemistry, biology, materials and sustainability.
 
 
 **Goal and Audience**
@@ -20,8 +20,8 @@ The audience of the symposia should be experts and students from both machine le
 - Symposium contributed content deadline: August 15, 2025
 
 --- 
-## CAIS 2025 symposia committee
-The CAIS 2025 symposia committee will commit to providing support for each symposium and coordinate all symposium events. Here are our members you can reach out via email. (Please also label “CAIS 2025 Symposia” in the title)
+## CAIS 2025 symposium committee
+The CAIS 2025 symposium committee will commit to providing support for each symposium and coordinate all symposium events. Here are our members you can reach out via email. (Please also label “CAIS 2025 Symposia” in the title)
 
 Chair: Lixue Cheng (Microsoft Research AI for Science Lab); [sherrylixuecheng@gmail.com](mailto:sherrylixuecheng@gmail.com)
 
@@ -63,10 +63,10 @@ The symposia will be in parallel session format and happening without time confl
 
 3. have cross-listed events in multiple symposia. For example, AI for biophysics, AI for materials, energy and sustainability and more. 
 
-**Symposia chairs and speakers:** The symposia should be organized by a group of organizers with diversity. Even though the proposal could be submitted by one organizer, we expect each symposia should have 3-4 chairs to coordinate and at least one chair can be on-site at CAIS 2025 (13-16 October, 2025, Princeton, NJ). 
+**Symposia chairs and speakers:** The symposia should be organized by a group of organizers with diversity. Even though the proposal could be submitted by one organizer, we expect each symposium should have 3-4 chairs to coordinate and at least one chair can be on-site at CAIS 2025 (13-16 October, 2025, Princeton, NJ). 
 
-We also highly encourage having a great mix of computer scientists and scientists (e.g. 50%/50%) in the organizing team. This is not a strict rule but effort needs to be shown in the proposal. We would also expect each symposia invites speakers with diversities working on related topics from both AI and science perspectives.
+We also highly encourage having a great mix of computer scientists and scientists (e.g. 50%/50%) in the organizing team. This is not a strict rule but effort needs to be shown in the proposal. We would also expect each symposium invites speakers with diversities working on related topics from both AI and science perspectives.
 
-For the accepted symposium, the chairs need to provide a final list of speakers to the CAIS 2025 symposia committee before 30 Sep, 2025.
+For the accepted symposia, the chairs need to provide a final list of speakers to the CAIS 2025 symposium committee before 30 Sep, 2025.
 
 
