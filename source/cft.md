@@ -6,7 +6,7 @@ The goal of the CAIS 2025 tutorials is to introduce general methods and share in
 
 ---
 
-**Submission link: to be posted on [TBA]**
+**Submission link: Please submit your proposal in PDF or Word format using our Google form: [https://docs.google.com/forms/d/1Ygt6mclH3dnfT9NnieXaqpKpe2Qu4QKhNb0CB4wf5G8/edit](https://docs.google.com/forms/d/1Ygt6mclH3dnfT9NnieXaqpKpe2Qu4QKhNb0CB4wf5G8/edit)**
 
 **Tutorial proposal submission timeline (Also see Dates)**
 All deadlines are 23:59 AoE (anywhere on earth)
@@ -20,13 +20,13 @@ All deadlines are 23:59 AoE (anywhere on earth)
 ## CAIS 2025 tutorial committee
 The CAIS 2025 tutorial committee will commit to providing support for each tutorial and coordinate all tutorial events. Here are our members you can reach out via email. (Please also label “CAIS 2025 Tutorial” in the title)
 
-Chair: Lixue Cheng (Microsoft Research AI for Science Lab); [sherrylixuecheng@gmail.com](mailto:sherrylixuecheng@gmail.com)
+Chair: Lixue Cheng (Microsoft Research AI for Science Lab) [sherrylixuecheng@gmail.com](mailto:sherrylixuecheng@gmail.com)
 
 ---
 
 ## Tutorial topics, format and suggestions
 
-The tutorials will be general conference sessions and only have a single event happening in one time slot. **The length of each tutorial should be 3 - 4 hours**. We have 3 topics that have been proposed by the conference organizing teams as example tutorials but need contributions and would like to seek another 3-4 tutorials proposed by submission.
+The tutorials will be general conference sessions and only have a single event happening in one time slot. **The length of each tutorial should be 2.5 - 3 hours**. We have 3 topics that have been proposed by the conference organizing teams as example tutorials but need contributions and would like to seek another 3-4 tutorials proposed by submission.
 
 The following are the general and suggested format for the tutorial, but any new idea is welcome and could be discussed with the CAIS 2025 tutorial committee.
 

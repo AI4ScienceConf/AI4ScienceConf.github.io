@@ -84,6 +84,13 @@ young_committee:
     tw:
     ws: https://lauragreenstreet.github.io/about-me/
 
+  - role: 
+    name: Flaviu Cipcigan
+    aff: IBM Research Europe - UK
+    details:  Staff Research Scientist at IBM Research
+    im: static/images/flaviu.jpg
+    tw:
+    ws: https://flaviucipcigan.com/
 
 
 scientific_advisor:

@@ -5,11 +5,22 @@ CAIS 2025 calls for symposia covering a wide range of topics in the intersection
 
 The goal of CAIS 2025 symposia is to provide an open platform allowing experts from both AI and sciences to have interdisciplinary discussions on specific challenges and recent progress in the fields, and finally pave the way to develop a more emerging future of AI for science.
 
+It is significant to have parallel symposia for attendees **interested in more specific topics**, while the conference-level general talks and tutorials focus on the contents that can benefit broad audiences.
+
 The audience of the symposia should be experts and students from both machine learning and related science fields.
+
+**Uniqueness of CAIS symposia**
+
+1. Parallel symposia in each day: Attendees can DIY their own schedule.
+
+2. Cross-field sections: Different symposia can work on some joint events, which will be extremely valuable for AI for Sciences, to attract the attendees working on the interface of two or more topics.
+
+3. Organizers from diverse backgrounds: Each symposium has organizers with diverse backgrounds, which can have diverse topics and contents for both AI and science audiences. 
+
 
 ---
 
-**Submission link: to be posted on [TBA]**
+**Submission link: Please submit your proposal in PDF or Word format using our Google form: [https://docs.google.com/forms/d/1zatmgpxyh0ruxpXSucTZltpp1WCJgN5PpHj1iOgka4A/edit](https://docs.google.com/forms/d/1zatmgpxyh0ruxpXSucTZltpp1WCJgN5PpHj1iOgka4A/edit)**
 
 **Symposium submission timeline (Also see Dates)**
 
@@ -21,9 +32,9 @@ The audience of the symposia should be experts and students from both machine le
 
 --- 
 ## CAIS 2025 symposium committee
-The CAIS 2025 symposium committee will commit to providing support for each symposium and coordinate all symposium events. Here are our members you can reach out via email. (Please also label “CAIS 2025 Symposia” in the title)
+The CAIS 2025 symposia committee will commit to providing support for each symposium and coordinate all symposium events. Here are our members you can reach out via email: [cais-symposium-committee@googlegroups.com](mailto:cais-symposium-committee@googlegroups.com). (Please also label “CAIS 2025 Symposia” in the title) 
 
-Chair: Lixue Cheng (Microsoft Research AI for Science Lab); [sherrylixuecheng@gmail.com](mailto:sherrylixuecheng@gmail.com)
+**Chair**: Lixue Cheng (Microsoft Research AI for Science Lab) [sherrylixuecheng@gmail.com](mailto:sherrylixuecheng@gmail.com); Flaviu Cipcigan (IBM Research Europe - UK) []()
 
 --- 
 
@@ -37,7 +48,9 @@ The symposia will be in parallel session format and happening without time confl
 
 2. Clearly state the goals and necessity of having this symposium. 
 
-3. Have a proposed series of events for at least **2 half-days**. (4) Include the senior and junior organizers and proposed speakers.
+3. Have a proposed series of events for at least **2 half-days**. 
+
+4. Include the senior and junior organizers and proposed speakers.
 
 <!-- The symposia should -->
 
