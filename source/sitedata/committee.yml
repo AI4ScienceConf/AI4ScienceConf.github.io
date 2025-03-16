@@ -63,7 +63,7 @@ young_committee:
   - role: Symposium Chair
     name: Sherry Lixue Cheng
     aff: Microsoft Research
-    details:  Researcher at Microsoft research AI4Sci Lab.
+    details:  Researcher at Microsoft research AI4Sci Lab
     im: static/images/sherry.jpg
     tw:
     ws: https://sherrylixuecheng.github.io/
@@ -75,6 +75,14 @@ young_committee:
     im: static/images/jiajun_he.jpg
     tw:
     ws: https://jiajunhe98.github.io/
+
+  - role: 
+    name: Laura Greenstreet
+    aff: Cornell University
+    details: PhD student at Cornell University
+    im: static/images/laura.jpg
+    tw:
+    ws: https://lauragreenstreet.github.io/about-me/
 
 
 
