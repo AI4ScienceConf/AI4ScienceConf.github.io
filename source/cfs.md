@@ -87,9 +87,9 @@ We also highly encourage having a great mix of computer scientists and scientist
 For the accepted symposia, the chairs need to provide a final list of speakers to the CAIS 2025 symposium committee before 30 Sep, 2025.
 
 
-## Symposia format and suggestions
+## Symposium presentation submission
 
-Symposium presentation submission: We welcome contributed presentation submissions to each symposia. These submissions will be managed by OpenReview provided by the CAIS conference but selected by the Symposia organizer. The possible submission tracks please refer to [Accepted Symposium page].  Please just submit an extended abstract using the [CAIS style] to OpenReview, and select the corresponding symposia you would like to submit to.
+We welcome contributed presentation submissions to each symposia. These submissions will be managed by OpenReview provided by the CAIS conference but selected by the Symposia organizer. The possible submission tracks please refer to [Accepted Symposium page].  Please just submit an extended abstract using the [CAIS style] to OpenReview, and select the corresponding symposia you would like to submit to.
 
 **For Symposium presentation track:**
 
